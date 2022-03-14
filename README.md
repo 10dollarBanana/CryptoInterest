@@ -2,7 +2,7 @@
 
 When looking for a place to compare crypto interest rates I found most sites were either out of date, inaccurate, or didn't compare sites I was interested in.
 
-To keep things as apples-to-apples as possible, the APY rates here are all for the lowest level, tier 1, etc. rates. These are all non-staking/flexible term rates. Hope some find this script helpful.
+To keep things as apples-to-apples as possible, the APY rates pulled are all for the lowest level, tier 1, etc. rates. These are all non-staking/flexible term rates. Hope some find this script helpful.
 
 
 Consider using one my referral links, for some low-bar free crypto. 
